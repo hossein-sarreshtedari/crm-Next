@@ -1,0 +1,90 @@
+.titlePage{
+
+    color : #fff;
+    font-size: 1.2rem;
+    margin : 2rem 0 ;
+   
+}
+
+
+.inputs{
+
+    margin: 2rem 0;
+}
+
+.inputs label {
+
+    font-size: 1rem;
+    color: #aeebff;
+    
+}
+
+.inputs input {
+
+    width: 100%;
+    margin-top: 0.5rem;
+    height: 45px;
+    border: none;
+    color: #fff;
+    background-color: #314146;
+    outline: none;
+    padding: 0 0.5rem;
+    font-size: 1rem;
+    font-family: inh;
+    border-radius: 5px;
+}
+
+.addProducts{
+
+    margin-bottom: 2rem;
+    border: 2px solid #454058;
+    border-radius: 5px;
+    padding: 1rem;
+}
+
+.addProducts .titleofProductDiv{
+
+    color: #fff;
+    margin-bottom: 1rem;
+}
+
+.btns{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+}
+
+.btns button{
+
+    font-size: 1.1rem;
+    padding: 0.5rem 2rem;
+}
+
+.fatherProducts{
+
+
+
+}
+
+.fatherProducts .products{
+
+    border: 1px solid #454058;
+    padding: 1rem;
+    border-radius: 5px;
+    margin-bottom: 2rem;
+}
+
+.bottomProduct{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.bottomProduct .inputs {
+
+    margin: 0rem 0 !important;
+}
+

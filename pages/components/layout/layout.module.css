@@ -1,0 +1,39 @@
+.mainLayout{
+
+    width: 1200px;
+    margin: 0 auto;
+
+}
+
+
+.header {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    
+}
+
+.header .title {
+
+    color: #fff;
+    font-size: 1.4rem;
+}
+
+.mainContent{
+    
+    width: 100%;
+    min-height: calc(100dvh -  130px);
+}
+
+.footer{
+
+    background-color: #3c2f4c;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px 10px 0 0;
+    color: #fff;
+}

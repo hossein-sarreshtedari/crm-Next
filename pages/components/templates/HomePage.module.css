@@ -1,0 +1,38 @@
+.Content{
+
+    width: 100%;
+    
+}
+
+.customerDiv{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    background-color: #314146;
+    padding: 1rem;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+}
+
+.name , .lastname , .email{
+
+    color: #aeebff;
+    
+}
+
+.lastname {
+
+    margin-left: 0.5rem;
+}
+
+.email {
+
+    margin-left: 2rem;
+}
+
+.customerDiv button {
+
+    margin : 0 0.5rem;
+}

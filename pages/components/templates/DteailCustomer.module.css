@@ -1,0 +1,38 @@
+.titlePage{
+
+    color : #fff;
+    font-size: 1.2rem;
+    margin : 2rem 0 ;
+   
+}
+
+.dataBox{
+
+    background-color: #314146;
+    border-radius: 8px;
+    padding: 1rem;
+}
+
+
+
+.dataBox td {
+
+    color : #aeebff;
+    padding: 1rem 1.5rem;
+
+}
+
+.dataBox td span{
+
+    color: #fff;
+}
+
+.lastbox{
+
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+

@@ -1,0 +1,42 @@
+.buttons{
+
+    border: none;
+    padding: 4px 10px;
+    font-family: inherit;
+    font-size: 0.9rem;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.buttons:hover {
+
+    transform: scale(0.99);
+}
+.buttons:active{
+
+    transform: scale(0.97);
+}
+
+.button1{
+
+    background-color: #9bf59b;
+    color: #444;
+}
+
+
+.button2{
+
+    background-color: transparent;
+    color: #5acb5a;
+    border: 2px solid #5acb5a ;
+}
+
+
+.button3{
+
+    background-color: transparent;
+    color: #d90202;
+    border: 2px solid #d90202 ;
+}
